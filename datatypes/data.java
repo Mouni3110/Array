@@ -1,6 +1,10 @@
 class Test{
-public static void main(String[] arg){
-int ids[]={111,112,113,114};
-System.out.println(ids);
+    public static void main(String[]args){
+        int i=12;
+        float f=1.3f;
+        String name="mounika";
+        System.out.println(name);
+        System.out.println(i);
+        System.out.println(f);
     }
 }
